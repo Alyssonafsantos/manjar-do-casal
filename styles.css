@@ -434,9 +434,10 @@ body{
         margin: 1rem 0;
         padding:0 5px;
     }
-    /* .slide-nav-button{
-     top:428%;   
-    } */
+    .slide-nav-button{
+     top:428%;
+     display: none;
+    }
     .quatropaises{
         height:auto;
         width:100%;
