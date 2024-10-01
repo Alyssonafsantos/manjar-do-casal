@@ -435,8 +435,8 @@ body{
         padding:0 5px;
     }
     .slide-nav-button{
-     top:428%;
-     display: none;
+     top:435%;
+     /*display: none;*/
     }
     .quatropaises{
         height:auto;
